@@ -21,4 +21,3 @@ Ordered
 1. Item 3
    1. Item 3a
    1. Item 3b
-[출처] 마크다운(Markdown) 가이드, 문법 정리 및 작성 규칙|작성자 아보느
