@@ -1,6 +1,7 @@
 # test
 just test
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # 헤더 크기 (h1)
 ## 헤더 크기 (h2)
@@ -135,5 +136,7 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>.svg
 
 APM:		/apm/l/:packageName.svg
 AUR license:	/aur/license/:packageName.svg
+=======
+>>>>>>> parent of e40350f... Update README.md
 =======
 >>>>>>> parent of e40350f... Update README.md
