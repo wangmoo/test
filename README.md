@@ -34,13 +34,13 @@ Format: ![이미지 alt명](url 링크)
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
 
 
-#하이퍼링크(Links)
+# 하이퍼링크(Links)
 
 [GitHub](http://github.com "깃허브") 
 GitHub
 
 
-#코드 블록(Code Blocks)​
+# 코드 블록(Code Blocks)​
 
 : 해당 프로그래밍 언어의 구문 구별 표시를 적용한 코드를 볼 수 있습니다.
 
