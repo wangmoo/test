@@ -21,10 +21,12 @@ Ordered
 1. Item 3
    1. Item 3a
    1. Item 3b
+   
+   
 첫번째 방법  
 ![cv3_이미지](/image/123.png)  
 Format: ![이미지 alt명](url 링크)
 
 두번째 방법  
-<a href="#"><img src="https://github.com/wangmoo/test/image/special.png" width="400px" alt="특수검진링크"></a>   
+<a href="#"><img src="https://github.com/wangmoo/test/blob/master/image/special.png" width="400px" alt="특수검진링크"></a>   
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
