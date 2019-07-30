@@ -1,7 +1,5 @@
 # test
 just test
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 # 헤더 크기 (h1)
 ## 헤더 크기 (h2)
@@ -38,8 +36,8 @@ Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
 
 # 하이퍼링크(Links)
 
-[GitHub](http://github.com "깃허브") 
-GitHub
+[GitHub](http://github.com "깃허브")
+
 
 
 # 코드 블록(Code Blocks)​
@@ -51,7 +49,6 @@ function test() {
  console.log("hello world!");
 }
 ```
-<<<<<<< HEAD
 
 
 # 인용 상자(Blockquotes)
@@ -137,9 +134,3 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>.svg
 
 APM:		/apm/l/:packageName.svg
 AUR license:	/aur/license/:packageName.svg
-=======
->>>>>>> parent of e40350f... Update README.md
-=======
->>>>>>> parent of e40350f... Update README.md
-=======
->>>>>>> parent of c6eecd7... 리드미 추가
