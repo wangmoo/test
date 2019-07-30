@@ -38,8 +38,8 @@ Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
 
 # 하이퍼링크(Links)
 
-[GitHub](http://github.com "깃허브")
-
+[GitHub](http://github.com "깃허브") 
+GitHub
 
 
 # 코드 블록(Code Blocks)​
@@ -51,6 +51,7 @@ function test() {
  console.log("hello world!");
 }
 ```
+<<<<<<< HEAD
 
 
 # 인용 상자(Blockquotes)
@@ -140,3 +141,5 @@ AUR license:	/aur/license/:packageName.svg
 >>>>>>> parent of e40350f... Update README.md
 =======
 >>>>>>> parent of e40350f... Update README.md
+=======
+>>>>>>> parent of c6eecd7... 리드미 추가
